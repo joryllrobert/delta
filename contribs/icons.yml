@@ -12,71 +12,61 @@
 #   category: Google
 #   compinfos:
 #     - com.google.app/com.google.app.MainActivity
+d_point:
+  - com.nttdocomo.android.dpoint/com.nttdocomo.android.dpoint.MainActivity
 
-square_point_of_sale:
-  - com.squareup/com.squareup.ui.PaymentActivity
-  - com.squareup/com.squareup.ui.main.MainActivity
+edion:
+  - com.edion.members/com.edion.members.activities.MainActivity
 
-expressvpn:
-  - com.expressvpn.vpn/com.expressvpn.vpn.ui.SplashActivity
-  - com.expressvpn.vpn/com.expressvpn.splash.SplashActivity
-  - com.expressvpn.vpn/com.expressvpn.vpn.splash.ClassicAlias
-
-laresmart:
-  - com.laresmart.clean/com.smart.ThingSplashActivity
-
-simo:
-  - com.solisapp.solis/com.solisapp.solis.MainActivity
-
-barcode_scanner_manateeworks:
-  - com.manateeworks.barcodescanners/com.manateeworks.barcodescanners.SplashActivity
-
-hopp:
-  - ee.hopp.client/ee.mtakso.client.activity.SplashHomeActivity
-
-spotangels:
-  - com.spotangels.android/com.spotangels.android.ui.StartActivity
-
-blue_shield_of_california:
-  - com.blueshieldca.prod/com.bsc.bsca.cem.ui.mvp.splash.SplashActivity
-
-collective_health:
-  - com.collectivehealth.member/com.collectivehealth.MainActivity
-
-find_it_fix_it:
-  - gov.seattle.searequests/com.reporters.MainActivity
-
-google_my_pixel:
-  category: 'Google'
+folder_root:
+  category: "Folders"
   compinfos:
-    - com.google.android.apps.tips/com.google.android.apps.tips.fortnite.base
+    - com.jrummyapps.rootbrowser.classic/com.jrummy.file.manager.RootBrowserActivity
 
-insite_living:
-  - com.getflamingo.InsiteLiving/com.hellohealthy.GetFlamingo.MainActivity
+google_gallery_ai_edge:
+  - com.google.ai.edge.gallery/com.google.ai.edge.gallery.MainActivity
 
-quantum_fiber:
-  - com.centurylink.biwf/com.centurylink.biwf.screens.splashScreen.SplashScreenActivity
+jihanpi:
+  - jp.jihanpi/jp.co.suntory.atpay.ui.controller.MainActivity
 
-valet_living_resident:
-  - com.valetliving.valetlivingrelease/crc641d710862ce50c2ea.MainActivity
+motorola_secure:
+  - com.motorola.securityhub/com.motorola.securityhub.ui.view.MainActivity
 
-vsp_vision_care:
-  - com.vsp.mobile/com.vsp.mobile.MainActivity
+motorola_secure_folder:
+  - com.motorola.securevault/com.motorola.securevault.MainActivityLauncher
 
-wex_benefits:
-  -  com.lighthouse1.mobilebenefits.dbi/com.lighthouse1.mobilebenefits.activity.LoginActivity
+v_point:
+  - jp.co.ccc.Tsite/jp.co.ccc.tapps.SplashActivity
 
-filemail:
-  - no.degree.filemail.app/no.degree.filemail.app.ui.activities.MainActivity
+play_station_family:
+  - com.playstation.ohana.android/com.playstation.ohana.android.TopActivity
 
-nuvio_streaming:
-  - com.nuvio.app/com.nuvio.app.MainActivity
+mixi:
+  - jp.mixi/jp.mixi.android.app.MainActivity
 
-pixel_play:
-  - com.theveloper.pixelplay/com.theveloper.pixelplay.MainActivity
+iucu:
+  - com.ifs.banking.fiid1339/com.banking.bankinglibrary.activities.SplashActivity
 
-trenit:
-  - eu.baroncelli.oraritrenitalia/eu.baroncelli.oraritrenitalia.mainactivity.MainActivity
+iu_hsa_fsa:
+  - com.lighthouse1.mobilebenefits.niu/com.lighthouse1.mobilebenefits.activity.LoginActivity
 
-paybyphone:
-  - com.paybyphone/com.paybyphone.MainActivity
+my_iu_health:
+  - org.iuhealth.healthelife.play/com.cerner.healthelife_android.presenter.MainWebViewActivity
+
+akg_headphones:
+  - com.harman.akgn20lt/com.harman.akg.headphone.ui.welcome.SplashNewNoVideoActivity
+
+androidify_new:
+  - com.android.developers.androidify/com.android.developers.androidify.MainActivity
+
+lissen:
+  - org.grakovne.lissen/org.grakovne.lissen.ui.activity.AppActivity
+
+meraki:
+  - com.meraki.Dashboard/com.meraki.shared.MainActivity
+
+pawxy:
+  - com.pawxy.browser/com.pawxy.browser.core.Browser$A
+
+slideshow_wallpaper:
+  - io.github.doubi88.slideshowwallpaper/io.github.doubi88.slideshowwallpaper.preferences.WallpaperPreferencesActivity
