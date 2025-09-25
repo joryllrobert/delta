@@ -19,7 +19,7 @@ public class CandyBar extends CandyBarApplication {
         Configuration configuration = new Configuration();
 
         configuration.setAutomaticIconsCountEnabled(false);
-        configuration.setCustomIconsCount(13038);
+        configuration.setCustomIconsCount(13093);
         configuration.setDashboardThemingEnabled(true);
         configuration.setGenerateAppFilter(true);
         configuration.setGenerateAppMap(false);
@@ -43,6 +43,16 @@ public class CandyBar extends CandyBarApplication {
             if (pkg == null) return true;
             return !(pkg.startsWith("org.chromium.webapk") || pkg.startsWith("com.sec.android.app.sbrowser.webapk"));
         });
+
+        DonationLink[] donationLinks = new DonationLink[]{
+                new DonationLink(
+                        // You can use png file (without extension) inside drawable-nodpi folder or url
+                        "buy_me_a_coffee",
+                        "Buy Me A Coffee",
+                        "Support us",
+                        "https://buymeacoffee.com/gitro")
+        };
+        configuration.setDonationLinks(donationLinks);
 
         return configuration;
     }
