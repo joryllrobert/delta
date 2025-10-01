@@ -13,20 +13,32 @@
 #   compinfos:
 #     - com.google.app/com.google.app.MainActivity
 
-pizzafabrika:
-  - com.pizzafabrika.android/com.pizzafabrika.pizzasoft.android.MainActivity
+billout:
+  - com.pvveb.billout/com.pvveb.billout.SplashActivity
 
-delta_force:
-  - com.proxima.dfm/com.epicgames.ue4.SplashActivity
+clean_email:
+  - email.clean.android/email.clean.android.MainActivity
 
-delta_force_garena:
-  - com.garena.game.df/com.epicgames.ue4.SplashActivity
+discover_mobile:
+  - com.discoverfinancial.mobile/icraw8.fNDHB2.iinVu1.kyHjx8
 
-delta_force_alt_1: {}
-delta_force_garena_alt_1: {}
+lena_icon_pack:
+  - one4studio.iconpack.lena/com.candybar.dev.activities.SplashActivity
 
-zalith_launcher:
-  - com.movtery.zalithlauncher/com.movtery.zalithlauncher.ui.activity.SplashActivity
+river:
+  - com.river.riverapp/com.river.riverapp.MainActivity
 
-citron:
-  - org.citron.citron_emu/org.citron.citron_emu.ui.main.MainActivity
+the_budgeting_app:
+  - com.thebudgetingapp.thebudgetingapp/com.thebudgetingapp.thebudgetingapp.MainActivity
+
+timelybills:
+  - in.usefulapp.timelybills/in.usefulapps.timelybills.activity.SplashActivity
+
+us_mobile:
+  - com.usmobile.dashboard/com.usmobile.dashboard.MainActivity
+
+visual_voicemail:
+  - com.vna.service.vvm/com.vna.service.vvm.activity.setup.WelcomeActivity
+
+zumimall:
+  - com.zumimall.protecthome/com.ppstrong.weeye.SplashActivity
