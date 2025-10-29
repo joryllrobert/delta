@@ -13,48 +13,69 @@
 #   compinfos:
 #     - com.google.app/com.google.app.MainActivity
 
+blinkit:
+  - com.grofers.customerapp/com.grofers.customerapp.DIWALI
 
-aldi_nord:
-  - de.aldiNord.android/de.aldiNord.android.applobby.AppLobbyActivity
+jiomart:
+  - com.jpl.jiomart/com.jpl.jiomart.dashboard.activities.SplashActivityAlias1
+  - com.jpl.jiomart/com.jcpjiomart.MainActivity 
 
-asiana_airlines:
-  - com.ssm.asiana/com.ssm.asiana.view.IntroActivity
+youtube_revanced:
+  - app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity
+  - app.revanced.android.youtube/app.revanced.android.youtube.revanced_original_1
 
-cotti_coffee:
-  - com.cotticoffee.intl.AP/com.cotticoffee.intl.MainActivity
+digitap:
+  - com.havells.digitap/com.smart.ThingSplashActivity
 
-gloria_jeans_rewards:
-  - com.rfg.gloriajeans/crc64687f12693417a27b.SplashActivity
+clearscanner:
+  - com.indymobileapp.document.scanner/com.indymobile.app.activity.SplashScreenActivity
 
-incheon_airport:
-  - com.ubivelox.icairport/com.ubivelox.icairport.IntroActivity
+bild_news:
+  - com.netbiscuits.bild.android/de.bild.android.app.MainActivity
 
-mein_orthomol:
-  - com.orthomol.b2capp/com.orthomol.b2capp.MainActivity
+dlf:
+  - de.deutschlandradio.dlf24/de.deutschlandradio.dlf24.MainActivity
 
-nomad_esim:
-  - com.lotusflare.nomad.mobile.android/com.lotusflare.nomad.mobile.android.NomadActivity
+finanzguru:
+  - de.dwins.financeguru/de.dwins.financeguru.MainActivity
 
-opensignal:
-  - com.staircase3.opensignal/com.staircase3.opensignal.goldstar.loadingconfig.LoadConfigActivity
+pebble:
+  - coredevices.coreapp/coredevices.coreapp.MainActivity
 
-snap_send_solve:
-  - com.outware.snapsendsolve/com.outware.snapsendsolve.feature.splash.presentation.SplashActivity
+nagram_blue:
+  - nu.gpu.nagram/org.telegram.messenger.BlueIcon
 
-the_coffee_club:
-  - au.thecoffeeclub/crc647ccd6bb8835f6745.MainActivity
+carbit_link:
+  - net.easyconn.carman.wws/net.easyconn.carman.MainActivity
 
-t_locker:
-  - io.mobinity.locker/io.mobinity.locker.PermissionActivity
+pmo_plus:
+  - my.com.publicmutual.CIFMobileApp/my.com.publicmutual.CIFMobileApp.InitApplicationActivity
 
-water_drinking_water_finder:
-  - de.pnpq.waterlocator/de.pnpq.osmlocator.base.activities.AppMainActivity
+wafrn:
+  - dev.djara.wafrn_rn/dev.djara.wafrn_rn.MainActivity
 
-glass_widgets:
-  - com.appslab.glass.widgets/com.appslab.glass.widgets.MainActivity
+heptabase:
+  - com.heptabase.heptabase/com.heptabase.heptabase.MainActivity
 
-shappky:
-  - com.yn.shappky/com.yn.shappky.MainActivity
+urban_company:
+  - com.urbanclap.urbanclap/com.urbanclap.urbanclap.core.app_icon.NormalUser
 
-monument_valley:
-  - com.ustwo.mv.epicgames/com.unity3d.player.UnityPlayerActivity
+postbank_alt_1: {}
+
+ailo:
+  - app.ailo/app.ailo.MainActivity
+
+sarawakpass:
+  - my.gov.sarawak.spass/my.gov.sarawak.spass.MainActivity
+
+skybus:
+  - au.com.skybus/au.com.skybus.basicScreens.onboarding.SplashActivity
+
+portanexus:
+  - com.tiagorvmartins.portanexus/com.tiagorvmartins.portanexus.MainActivity
+
+quitter:
+  - com.quitter.app/com.quitter.app.MainActivity
+
+kimi_ai:
+  - com.moonshot.kimichat/com.moonshot.kimichat.MainActivity
