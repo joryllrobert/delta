@@ -2,7 +2,7 @@
 <resources>
 	<string name="changelog_date"></string>
 	<string-array name="changelog">
-		<item>48 new icons, 13187 in total</item>
+		<item>1 new icons, 13213 in total</item>
 		<item>Full changelog will be published upon release!</item>
 	</string-array>
 </resources>
