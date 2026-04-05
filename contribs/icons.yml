@@ -1,14 +1,7 @@
 #
-# new_icon_1:
-#   - com.example/com.example.MainActivity
+# options:
+# https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#options
 #
-# new_icon_2:
-#   - com.example.1/com.example.MainActivity
-#   - com.example.2/com.example.MainActivity
+# examples:
+# https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#examples
 #
-# new_icon_2_alt_1: {}
-#
-# new_icon_3:
-#   category: Google
-#   compinfos:
-#     - com.google.app/com.google.app.MainActivity
