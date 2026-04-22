@@ -5,3 +5,13 @@
 # examples:
 # https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#examples
 #
+
+turn_off:
+  action: rewrite
+
+portuguese_dictionary_offline:
+  action: rewrite
+
+pineapple_lock_screen:
+  - net.blumia.pineapple.lockscreen.oss/net.blumia.pineapple.lockscreen.MainActivity
+  - net.blumia.pineapple.lockscreen/net.blumia.pineapple.lockscreen.MainActivity
